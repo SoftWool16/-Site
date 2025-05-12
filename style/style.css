@@ -16,7 +16,7 @@
 }
 header{
 
-    background-image: linear-gradient(rgb(29, 36, 29),  rgb(56, 85, 57)); 
+    background-image:  url("C:\\Users\\Bill\\Desktop\\SiteA\\static\\img\\main\\head.jpg"); 
 
 }
 section{
@@ -46,6 +46,10 @@ section{
     height: 500px;
     width: 100%;
 }
+.size-head_block{
+    height: 50px;
+    width: 100%;
+}
 .size-mini-window
 {
     height: 50%;
@@ -58,9 +62,7 @@ section{
 .frame-yellow{
     border: 3px solid rgb(235, 216, 48);
 }
-.frame{
-    border: 3px solid rgba(255, 0, 0, 0.493);
-}
+
 .baccolor-black{
     background-color: #292525d2;
     border-radius: 10%; 
